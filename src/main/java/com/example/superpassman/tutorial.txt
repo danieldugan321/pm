@@ -1,0 +1,15 @@
+This project is a password manager, which stores passwords in a database, and allows the user to generate, encrypt, store, delete, and view passwords.
+
+Libraries are displayed in "Project Structure", added through maven. Through pom.xml, relevant dependencies are added, allowing downloads from online links.
+Inside the project folder superpassman, the files are as follows:
+mysql-connector-java-8.0.23.jar, which is the mysql connector
+src, which contains the java source files
+target, which contains the compiled java byte code
+pom.xml, which contains the dependencies
+
+The java files in src are as follows:
+DatabaseConnector.java, which contains the code for connecting to the database
+Main.java, which contains the main method, which instantiates the GUI, and calls the PassLogic class, and the DatabaseConnector class
+PassLogic.java, which contains the code for the logic of the buttons in the program, and handles the buttons relationship with the database.
+PasswordManagerUI.java, which contains the code for the GUI of the program
+PasswordEntry.java, which contains the code for the PasswordEntry object, which is used to store the data of each password entry

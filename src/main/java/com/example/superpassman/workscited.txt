@@ -1,0 +1,5 @@
+//Works Cited
+//1. “Java.Util.Random Class in Java.” GeeksforGeeks, GeeksforGeeks, 7 May 2019, www.geeksforgeeks.org/java-util-random-class-java/.
+//2. baeldung, Written by: “Java Base64 Encoding and Decoding.” Baeldung, 28 Aug. 2023, www.baeldung.com/java-base64-encode-and-decode.
+//3. “JavaFX: Vbox Class.” GeeksforGeeks, GeeksforGeeks, 6 Sept. 2018, www.geeksforgeeks.org/javafx-vbox-class/.
+//4. “JavaFX: Clipboard.” Clipboard (Javafx 8), 10 Feb. 2015, docs.oracle.com/javase/8/javafx/api/javafx/scene/input/Clipboard.html.
