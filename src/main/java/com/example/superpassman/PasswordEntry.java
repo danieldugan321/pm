@@ -7,6 +7,9 @@ public class PasswordEntry {
     private String username;
     private String encryptedPassword;
 
+    // Default constructor
+    public PasswordEntry() {
+    }
     public PasswordEntry(String website, String username, String encryptedPassword) {
         this.website = website;
         this.username = username;

@@ -12,7 +12,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) {
         // Initialize the database connection
-        DatabaseConnector databaseConnector = new DatabaseConnector();
+        JsonDatabaseConnector databaseConnector = new JsonDatabaseConnector();
 
         // Initialize the PassLogic with the database connection
         PassLogic passLogic = new PassLogic(databaseConnector);
